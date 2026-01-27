@@ -1,5 +1,7 @@
 # 🛡️ Infra Security JG TIL
 
+> **아는 것을 안다하고 모르는 것을 모른다고 하는 것이 앎이다 - 공자**
+
 > **최종군의 보안 엔지니어를 향한 매일의 성장 기록 | Infra Security & Network Troubleshooting**
 
 ---
@@ -25,7 +27,6 @@
 - [4월(Apr)]
 - [5월(May)]
 - [6월(Jun)]
-
 
 ## 자습 및 복습
 # 
