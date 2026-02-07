@@ -88,3 +88,6 @@ jpg 파일 이동: mv *.jgp /project/jpg/
 세미콜론(;)을 사용하면 두 명령어를 한꺼번에 내릴 수 있습니다.
 
 명령어: mv *.txt /project/txt/ ; mv *.jgp /project/jpg/
+
+파일 여러 개 한 번에 올리는 방법 
+# mv *.txt /project/txt ; mv  *.jgp  /project/jpg
