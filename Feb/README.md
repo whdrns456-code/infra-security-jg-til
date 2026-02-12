@@ -3,19 +3,19 @@
 2월에 공부한 인프라 보안 및 네트워크 기록입니다. 각 항목을 클릭하면 통합 뷰어로 연결됩니다.
 
 ### 📝 일별 리스트
-- [2026-02-01 명령어 내용 정리](../post.html?file=Feb/26-02-01.md.md)
-- [2026-02-01: 복습 및 예습 (TCP 흐름도)](../post.html?file=Feb/header-structure.md)
-- [2026-02-02 Wireshark](../post.html?file=Feb/26-02-02.md)
-- [2026-02-03 리눅스 기초](../post.html?file=Feb/26-02-03.md)
-- [2026-02-04 리눅스 심화](../post.html?file=Feb/26-02-04.md)
-- [2026-02-05 리눅스 퍼미션](../post.html?file=Feb/26-02-05.md)
-- [2026-02-06 각 용어 정리 및 설정 관리](../post.html?file=Feb/26-02-06.md)
-- [2026-02-07 HTTP 프로토콜](../post.html?file=Feb/26-02-07.md)
-- [2026-02-08 은영 프로젝트 진행](../post.html?file=Feb/p-26-02-08.md)
-- [2026-02-09 계정 생성](../post.html?file=Feb/26-02-09.md)
-- [2026-02-10 파일 확장 권한 및 예약](../post.html?file=Feb/26-02-10.md)
-- [2026-02-11 systemd와 log](../post.html?file=Feb/26-02-11.md)
-- [2026-02-12 Rocky Linux 패키지 관리](../post.html?file=Feb/26-02-12.md)
+- [2026-02-01 명령어 내용 정리](post.html?file=Feb/26-02-01.md.md)
+- [2026-02-01: 복습 및 예습 (TCP 흐름도)](post.html?file=Feb/header-structure.md)
+- [2026-02-02 Wireshark](post.html?file=Feb/26-02-02.md)
+- [2026-02-03 리눅스 기초](post.html?file=Feb/26-02-03.md)
+- [2026-02-04 리눅스 심화](post.html?file=Feb/26-02-04.md)
+- [2026-02-05 리눅스 퍼미션](post.html?file=Feb/26-02-05.md)
+- [2026-02-06 각 용어 정리 및 설정 관리](post.html?file=Feb/26-02-06.md)
+- [2026-02-07 HTTP 프로토콜](post.html?file=Feb/26-02-07.md)
+- [2026-02-08 은영 프로젝트 진행](post.html?file=Feb/p-26-02-08.md)
+- [2026-02-09 계정 생성](post.html?file=Feb/26-02-09.md)
+- [2026-02-10 파일 확장 권한 및 예약](post.html?file=Feb/26-02-10.md)
+- [2026-02-11 systemd와 log](post.html?file=Feb/26-02-11.md)
+- [2026-02-12 Rocky Linux 패키지 관리](post.html?file=Feb/26-02-12.md)
 
 ---
 > 모든 기록은 메타인지를 기반으로 작성되었습니다.
