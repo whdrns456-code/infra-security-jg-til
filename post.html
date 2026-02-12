@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Infra Security Log</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        body { background-color: #FDFCFB; color: #1C1917; font-family: sans-serif; }
+        .prose pre { background: #1c1917; color: #e7e5e4; padding: 1.5rem; border-radius: 1rem; overflow-x: auto; }
+        .prose code { color: #eb5757; background: #f3f4f6; padding: 0.2rem 0.4rem; border-radius: 0.25rem; }
+    </style>
+</head>
+<body>
+    <main class="max-w-3xl mx-auto px-6 py-20">
+        <a href="javascript:history.back()" class="text-stone-400 hover:text-stone-900 font-bold text-sm mb-10 inline-block">← BACK</a>
+        <article id="content" class="prose prose-stone lg:prose-xl"></article>
+    </main>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const filePath = urlParams.get('file');
+
+        if (filePath) {
+            fetch(filePath)
+                .then(response => response.text())
+                .then(text => {
+                    document.getElementById('content').innerHTML = marked.parse(text);
+                })
+                .catch(err => {
+                    document.getElementById('content').innerHTML = "파일을 불러올 수 없습니다.";
+                });
+        }
+    </script>
+</body>
+</html>
