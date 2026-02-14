@@ -5,6 +5,8 @@
 - [2026-02-07: AWS Nginx 리버스 프록시를 활용한 보안 배포 및 인프라 구축](post.html?file=Feb/p-26-02-07.md)
 - [2026-02-08: swap 활용 및 메인 페이지 수정](post.html?file=Feb/p-26-02-08.md)
 - [2026-02-14 Docker DBeaver](post.html?file=Feb/p-26-02-14.md)
+- [2026-02-14 보안 적용 DB](post.html?file=Feb/p-26-02-14v2.md)
+
 --- 
 
 ### 중요 내용 모음 
