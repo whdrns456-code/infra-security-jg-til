@@ -15,10 +15,10 @@
 - [2026-02-09 계정 생성](post.html?file=Feb/26-02-09.md)
 - [2026-02-10 파일 확장 권한 및 예약](post.html?file=Feb/26-02-10.md)
 - [2026-02-11 systemd와 log](post.html?file=Feb/26-02-11.md)
-- [2026-02-12 Rocky Linux 패키지 관리](post.html?file=Feb/26-02-12.md)
+- [2026-02-12 Rocky Linux 패키지 관리 RPM과 DNF](post.html?file=Feb/26-02-12.md)
 - [2026-02-13 Rocky Linux 패키지 관리 실습 및 네트워크 관리](post.html?file=Feb/26-02-13.md)
 - [2026-02-14 Docker DBeaver](post.html?file=Feb/p-26-02-14.md)
-
+- [2026-02-15 RPM과 DNF 심화 복습](post.html?file=Feb/p-26-02-15.md)
 
 ---
 > 모든 기록은 메타인지를 기반으로 작성되었습니다.
