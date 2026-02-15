@@ -20,5 +20,6 @@
 - [2026-02-14 Docker DBeaver](post.html?file=Feb/p-26-02-14.md)
 - [2026-02-15 RPM과 DNF 심화 복습](post.html?file=Feb/p-26-02-15.md)
 - [2026-02-16 회원가입 및 로그인 기능 구현 및 정보 노출 최소화와 암호화 솔팅과 키 스트레칭)](post.html?file=Feb/p-26-02-16.md)
+- [2026-02-16 Project Session vs Token[Session 선택 이유])](post.html?file=Feb/p-26-02-16v2.md)
 ---
 > 모든 기록은 메타인지를 기반으로 작성되었습니다.
