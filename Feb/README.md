@@ -27,6 +27,8 @@
 - [2026-02-18 도커 자체 배포](post.html?file=Feb/p-26-02-18.md)
 - [2026-02-18 도커를 통한 AWS 배포](post.html?file=Feb/p-26-02-18v2.md)
 - [2026-02-18 도커 자체 배포](post.html?file=Feb/p-26-02-18v3.md)
+- [2026-02-18 도커 자체 배포 트러블 슈팅 2](post.html?file=Feb/p-26-02-18v3.md)
+
 
 
 ---
