@@ -27,8 +27,9 @@
 - [2026-02-18 도커 자체 배포](post.html?file=Feb/p-26-02-18.md)
 - [2026-02-18 도커를 통한 AWS 배포](post.html?file=Feb/p-26-02-18v2.md)
 - [2026-02-18 도커 자체 배포](post.html?file=Feb/p-26-02-18v3.md)
-- [2026-02-18 도커 자체 배포 트러블 슈팅 2](post.html?file=Feb/p-26-02-18v3.md)
-
+- [2026-02-18 도커 자체 배포 트러블 슈팅 2(빌드 파일(.jar))](post.html?file=Feb/p-26-02-18v3.md)
+- [2026-02-18 도커 자체 배포 트러블 슈팅 3(빌드 파일(my-secure-oracle**의 상태 Exited (224)](post.html?file=Feb/p-26-02-18v4.md)
+- [2026-02-18 도커 자체 배포 트러블 슈팅 4 [마지막 타임존]](post.html?file=Feb/p-26-02-18v5.md)
 
 
 ---
