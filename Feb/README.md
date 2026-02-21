@@ -30,9 +30,10 @@
 - [2026-02-18 도커 자체 배포 트러블 슈팅 2(빌드 파일(.jar))](post.html?file=Feb/p-26-02-18v3.md)
 - [2026-02-18 도커 자체 배포 트러블 슈팅 3(빌드 파일(my-secure-oracle**의 상태 Exited (224)](post.html?file=Feb/p-26-02-18v4.md)
 - [2026-02-18 도커 자체 배포 트러블 슈팅 4 [마지막 타임존]](post.html?file=Feb/p-26-02-18v5.md)
-- [2026-02-15 방화벽과 SSH](post.html?file=Feb/p-26-02-19.md)
-- [2026-02-15 디스크 및 swap](post.html?file=Feb/p-26-02-20.md)
+- [2026-02-19 방화벽과 SSH](post.html?file=Feb/26-02-19.md)
+- [2026-02-20 디스크 및 swap](post.html?file=Feb/26-02-20.md)
 
+- [2026-02-20 디스크 및 swap 방화벽과 ssh 심화 ](post.html?file=Feb/26-02-21.md)
 
 ---
 > 모든 기록은 메타인지를 기반으로 작성되었습니다.
