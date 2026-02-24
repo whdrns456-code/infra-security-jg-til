@@ -250,7 +250,16 @@
         </section>
     </main>
 <script>
-    GitHubCalendar(".calendar", "whdrns456-code", { responsive: true, tooltips: true });
+const currentHour = new Date().getHours();
+
+GitHubCalendar(".calendar", "whdrns456-code", { 
+    responsive: true, 
+    tooltips: true,
+    proxy(url) {
+        return `https://api.allorigins.win/get?url=${encodeURIComponent(url)}&cacheBuster=${currentHour}`;
+    }
+});
+
 </script>
 </body>
 </html>
