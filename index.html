@@ -250,16 +250,26 @@
         </section>
     </main>
 <script>
-const currentHour = new Date().getHours();
 
-GitHubCalendar(".calendar", "whdrns456-code", { 
-    responsive: true, 
-    tooltips: true,
-    proxy(url) {
-        return `https://api.allorigins.win/get?url=${encodeURIComponent(url)}&cacheBuster=${currentHour}`;
+    const currentHour = new Date().getHours();
+    
+    try {
+        GitHubCalendar(".calendar", "whdrns456-code", { 
+            responsive: true, 
+            tooltips: true,
+            proxy(url) {
+                return `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
+            }
+        }).then(() => {
+            console.log("GitHub Calendar loaded successfully.");
+        }).catch(err => {
+            console.error("Calendar error:", err);
+            document.querySelector(".calendar").innerHTML = 
+                "<div class='text-stone-400 text-sm'>잔디 데이터를 불러오는 중 오류가 발생했습니다. (GitHub API 제한 등)</div>";
+        });
+    } catch (e) {
+        console.log("Calendar initialization failed.");
     }
-});
-
 </script>
 </body>
 </html>
