@@ -2,9 +2,9 @@
 
 ### 📝 일별 리스트
 
-- [2026-03-01 이름 못 정한 인프라 구축 프로젝트](post.html?file=Mar/26-03-01.md)
-- [2026-03-02 DNS Server(Master/Slave)](post.html?file=Mar/26-03-02.md)
-
+- [2026-03-01 Nginx GeoIP2를 활용한 국가별 접속 제어 및 보안 강화](post.html?file=Mar/26-03-01.md)
+- [2026-03-02 MariaDB TDE](post.html?file=Mar/26-03-02.md)
+- [2026-03-03 FULL SSL](post.html?file=Mar/26-03-03.md)
 
 
 

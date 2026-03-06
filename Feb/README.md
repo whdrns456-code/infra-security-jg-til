@@ -37,7 +37,10 @@
 - [2026-02-22 은영 프로젝트 HTTPS(SSL/TLS) 프로토콜 도입을 통한 보안 인프라 구축](post.html?file=Feb/p-26-02-22.md)
 - [2026-02-23 DNS](post.html?file=Feb/26-02-23.md)
 - [2026-02-24 가상호스트](post.html?file=Feb/26-02-24.md)
-
+- [2026-02-25 HTTPS&Prossssssssxy](post.html?file=Feb/26-02-25.md)
+- [2026-02-26 SELinux & DB](post.html?file=Feb/26-02-26.md)
+- [2026-02-27 NFS(Network File System)](post.html?file=Feb/26-02-27.md)
+- [2026-02-28 DNS Server(Master/Slave)](post.html?file=Feb/26-02-28.md)
 ---
 
 > 모든 기록은 메타인지를 기반으로 작성되었습니다.
